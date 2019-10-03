@@ -1,0 +1,9 @@
+readme.txt
+
+prog/bin/
+prog/obj/
+prog/*.cbp
+prog/*.depend
+prog/*.layout
+!prog/*.cpp
+prog**/*.txt
